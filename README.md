@@ -93,7 +93,7 @@ Using historical EV specification data, we aim to **estimate vehicle range (in k
 ![Correlation Heatmap](correlation_heatmap.png)
 
 ### ⭐ Feature Importance (Random Forest)
-![Feature Importance](Feature Importance - EV Range Prediction.png)
+![Feature Importance](Feature_Importance_EV_Range_Prediction.png)
 
 ### 📈 Actual vs Predicted EV Range
 ![Actual vs Predicted](actual_vs_predicted.png)
