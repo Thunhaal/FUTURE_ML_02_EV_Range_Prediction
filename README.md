@@ -87,6 +87,21 @@ Using historical EV specification data, we aim to **estimate vehicle range (in k
 ✔ **Random Forest Regressor** provided significantly better performance and generalization.
 
 ---
+## 📊 Visual Analysis & Model Evaluation
+
+### 🔗 Feature Correlation
+![Correlation Heatmap](correlation_heatmap.png)
+
+### ⭐ Feature Importance (Random Forest)
+![Feature Importance](Feature Importance - EV Range Prediction.png)
+
+### 📈 Actual vs Predicted EV Range
+![Actual vs Predicted](actual_vs_predicted.png)
+
+### ⚡ Efficiency vs Driving Range
+![Efficiency vs EV Range](Efficiency VS EV Range.png)
+
+---
 
 ## 🔍 Key Insights
 
