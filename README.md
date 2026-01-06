@@ -99,7 +99,7 @@ Using historical EV specification data, we aim to **estimate vehicle range (in k
 ![Actual vs Predicted](actual_vs_predicted.png)
 
 ### ⚡ Efficiency vs Driving Range
-![Efficiency vs EV Range](Efficiency VS EV Range.png)
+![Efficiency vs EV Range](Efficiency_VS_EV_Range.png)
 
 ---
 
