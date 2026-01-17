@@ -146,7 +146,6 @@ Task_02_EV_Range_Prediction/
 ## 👨‍💻 Author
 
 **S. T. Thunhaal**
-Machine Learning Intern – Future Interns
 LinkedIn: [https://www.linkedin.com/in/thunhaal-st-041001319/](https://www.linkedin.com/in/thunhaal-st-041001319/)
 
 ---
